@@ -44,7 +44,7 @@
 ---
 
 <div align="center">
-  <p>✨ <em>A developer’s journey, written in rhyme,Building the future, one line at a time.</em> </p>
+  <p>✨ <em>A developer’s journey, written in rhyme, building the future, one line at a time.</em></p>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
